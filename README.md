@@ -1,7 +1,7 @@
 # Profile
 
 Name : KUNSTO<br>
-Keybase : [@kunsto](https://keybase.io/kunsto)<br>
+Keybase : [kunsto](https://keybase.io/kunsto)<br>
 
 # Bio
 
